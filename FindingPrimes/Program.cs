@@ -4,8 +4,8 @@ namespace FindingPrimes
 {
     class Program
     {
-        public const int LOWER_BOUNDS = 0;
-        public const int UPPER_BOUNDS = 2000;
+        public const int LOWER_BOUNDS = 1;
+        public const int UPPER_BOUNDS = 100;
 
         static void Main(string[] args)
         {

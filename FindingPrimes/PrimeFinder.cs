@@ -13,7 +13,6 @@ namespace FindingPrimes
 
         private static List<int> _primes = new List<int>();
 
-
         public static bool IsPrime(int testNum)
         {
             bool prime = true;
